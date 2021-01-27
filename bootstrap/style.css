@@ -1,0 +1,84 @@
+header{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+.conteiner{
+    width: 100%;
+    text-align: center;
+}
+
+.home{
+    background-image: url(background.jpg);
+    text-align: center;
+    margin-top: 50px;
+    
+    
+    padding: 64px 32px;
+}
+
+.home h1{
+    font-size:72px;
+    margin-bottom: 8px;
+}
+
+.lead{
+    font-size: 20px;
+    font-weight:400;
+}
+
+.home hr{
+    margin: 24px 0;
+}
+
+.home p{
+    margin-bottom: 16px;
+}
+
+
+.form-inline2{
+    display: inline-block;
+}
+
+.form-control2{
+    width: 300px;
+    padding-right: 6px;
+}
+
+.about2 h1{
+    font-size:40px;
+    margin-bottom:8px;
+}
+
+
+
+.about2{
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+
+.card-deck {
+    table-layout: fixed;
+    border-spacing: 1.25rem 0;
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.card{
+    width:290px;
+    margin-bottom: 12px;
+    float: left;
+
+}
+
+footer{
+    margin-top: 50px;
+    padding:150px 0;
+    background-color: #00ffff;
+    
+}
+
+footer img{
+    width: 200px;
+}
